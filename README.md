@@ -31,12 +31,12 @@ IUHFOEWIHFNOIEWHFOIHEWOIFHOEWIHFHEWOIHFIOHIOihefwoihfowiehfjiowfoiwewoefew.
 
 foiwuh9ufiuewhfhewiuhi
 
-'''
+```
 <hmtl>
     <head>
     <body>
         <p> Esto es un html </p>
 </html>
-'''
+```
 
 ^[Enlace al github](https://github.com/Pavlotesto/MiprimerHTML "Enlace al github")
