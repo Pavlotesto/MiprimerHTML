@@ -45,7 +45,7 @@ foiwuh9ufiuewhfhewiuhi
 
 |Titulo |Alineación |Precio |
 ----------|:----------:|----------:|
-Col 3 es|centrada|500€|
+|Col 3 es|centrada|500€|
 |Col 3 es|Derecha|1500€|
 |Final|Hola|300€|
 
